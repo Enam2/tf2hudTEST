@@ -1,0 +1,7 @@
+// Helpful Commands
+
+// hud_reloadscheme
+// hud_combattext 1/0
+// tf_hud_show_servertimelimit 1/0
+// cl_mvm_wave_status_visible_during_wave 1/0
+// tf_hud_target_id_disable_floating_health 1/0
